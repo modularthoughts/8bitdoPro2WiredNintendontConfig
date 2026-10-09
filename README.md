@@ -10,5 +10,5 @@ Notice:
 
 - No rumble.
 - Profile button → Exit/return to loader.
-- L1 = R1 → Z.
+- L = R → Z.
 - Select = L3 = R3 = P1 = P2 = Star = Home → NOTHING.
