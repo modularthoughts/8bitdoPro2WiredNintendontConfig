@@ -1,6 +1,3 @@
-# wii_8bitdo_wired_pro_2_config
-8bitdo Wired Pro 2 INI file for Nintendont.
-
 How to use:
 
 - Put 2DC8_3010.ini inside SDCard/controllers/.
